@@ -1,0 +1,15 @@
+{
+  branchPrefix: "test-renovate/",
+  dryRun: true,
+  platform: "github",
+  repositories: [
+    "sbrunner/bin",
+    "sbrunner/deskew",
+    "sbrunner/scan-to-paperless",
+    "sbrunner/sphinx-prompt",
+    "sbrunner/netatmo2graphyte",
+    "sbrunner/poetry-plugin-tweak-dependencies-version",
+    "sbrunner/shifter-pandas",
+    "sbrunner/shifter-jupyterlab",
+  ],
+}
