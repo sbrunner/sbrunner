@@ -2,7 +2,12 @@ name: Renovate
 on:
   push:
   schedule:
-    - cron: '0/15 * * * *'
+    # minute hour dayOfmonth mounth dayOfWeek
+    - cron: "0/5 3 * * 0" # Sunday
+    - cron: "0/15 4 * * 0" # Sunday
+    - cron: "0 5-20 * * 0" # Sunday
+    - cron: "0 8-20 * * 1-5" # week days
+    - cron: "0 8-20 * * 6" # Saturday
 jobs:
   renovate:
     name: Renovate
