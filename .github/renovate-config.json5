@@ -3,6 +3,7 @@
   dryRun: false,
   platform: "github",
   repositories: [
+    "sbrunner/sbrunner",
     "sbrunner/bin",
     "sbrunner/deskew",
     "sbrunner/scan-to-paperless",
