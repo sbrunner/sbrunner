@@ -1,6 +1,6 @@
 {
   branchPrefix: "test-renovate/",
-  dryRun: true,
+  dryRun: false,
   platform: "github",
   repositories: [
     "sbrunner/bin",
