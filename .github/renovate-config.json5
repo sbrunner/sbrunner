@@ -8,7 +8,7 @@
     "sbrunner/deskew",
     "sbrunner/scan-to-paperless",
     "sbrunner/sphinx-prompt",
-    "sbrunner/netatmo2graphyte",
+    "sbrunner/netatmo2graphite",
     "sbrunner/poetry-plugin-tweak-dependencies-version",
     "sbrunner/shifter-pandas",
     "sbrunner/shifter-jupyterlab",
