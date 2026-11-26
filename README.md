@@ -19,7 +19,7 @@ platforms, fullstack Python/JavaScript and DevOps.
   (1,993 contributions)
 - [prospector](https://github.com/prospector-dev/prospector) — 3rd contributor (160 contributions)
 - [QGIS](https://github.com/qgis/QGIS) (53 commits), [OpenLayers](https://github.com/openlayers/openlayers)
-  (26 commits), [MapFish Print](https://github.com/camptocamp/mapfish_print)
+  (26 commits), [MapFish Print](https://github.com/camptocamp/mapfish-print)
 
 ## Personal projects
 
