@@ -33,7 +33,7 @@ platforms, fullstack Python/JavaScript and DevOps.
 - [scan-to-paperless](https://github.com/sbrunner/scan-to-paperless) — scan → OCR → Paperless-ngx
   pipeline (265 ★)
 - [sphinx-prompt](https://github.com/sbrunner/sphinx-prompt) — unselectable command prompts in
-  Sphinx documentation (52 ★)
+  Sphinx documentation (52 ★; used by MuJoCo, locust, Flyte, Read the Docs, Covalent)
 - [hooks](https://github.com/sbrunner/hooks) — Python tooling for pre-commit workflows
 
 ---
