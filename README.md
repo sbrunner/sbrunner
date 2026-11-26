@@ -11,15 +11,19 @@ platforms, fullstack Python/JavaScript and DevOps.
 - Linux Foundation trainings: *Security for Software Development Managers* (LFD125) and
   *Secure AI/ML Driven Software Development* (LFEL1012) — 2026
 
-## Contributions to external projects
+## Projects at my company (Camptocamp)
 
 - [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal) (GeoMapFish) — top contributor
   (10,990 commits), lead architect
 - [tilecloud-chain](https://github.com/camptocamp/tilecloud-chain) — top contributor
   (1,993 contributions)
+- [MapFish Print](https://github.com/camptocamp/mapfish-print)
+
+## Contributions to external projects
+
 - [prospector](https://github.com/prospector-dev/prospector) — 3rd contributor (160 contributions)
 - [QGIS](https://github.com/qgis/QGIS) (53 commits), [OpenLayers](https://github.com/openlayers/openlayers)
-  (26 commits), [MapFish Print](https://github.com/camptocamp/mapfish-print)
+  (26 commits)
 
 ## Personal projects
 
